@@ -8,3 +8,4 @@ def count(sequence, item):
         if num == item:
             counter += 1
     return counter
+    
